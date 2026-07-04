@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rekha Sivakumar</h1>
 <h3 align="center">Aspiring Software Developer | Java & Python | Full Stack & AI</h3>
 
-<p align="center">
- My GitHub Stats
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekha-Sivakumar&theme=radical" alt="GitHub Streak" />
-</p>
 
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science and Engineering, Sri Venkateswara Engineering College
@@ -38,6 +31,13 @@
 
 
 
+<p align="center">
+ My GitHub Stats
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekha-Sivakumar&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ## 🔗 Connect With Me
