@@ -29,12 +29,14 @@
 </p>
 
 ## 📌 Featured Projects
-- 🧮 [Basic Calculator](https://github.com/Rekha-Sivakumar/Basic-Calculator-) — built in Python
-- 🍳 [Recipe Generator](https://github.com/Rekha-Sivakumar/Recipe-Generator-) — Python model built during an AI & Prompt Engineering internship
-- 📄 [Resume Builder](https://github.com/Rekha-Sivakumar/RESUME-BUILDER) — generates downloadable PDF resumes from user input (HTML, CSS, JavaScript)
-- 🧭 [Career Guidance App](https://github.com/Rekha-Sivakumar/career-guidance-app) — built with JavaScript
 - 💻 [Personal Portfolio](https://github.com/Rekha-Sivakumar/Portfolio) — my personal site, built with HTML
 - 🧠 [AI Quiz Generator](https://ai-quiz-web.onrender.com) — live demo, generates quizzes using the Gemini API (deployed on Render)
+- 📄 [Resume Builder](https://github.com/Rekha-Sivakumar/RESUME-BUILDER) — generates downloadable PDF resumes from user input (HTML, CSS, JavaScript)
+- 🧮 [Basic Calculator](https://github.com/Rekha-Sivakumar/Basic-Calculator-) — built in Python
+- 🍳 [Recipe Generator](https://github.com/Rekha-Sivakumar/Recipe-Generator-) — Python model built during an AI & Prompt Engineering internship
+- 🧭 [Career Guidance App](https://github.com/Rekha-Sivakumar/career-guidance-app) — built with JavaScript
+
+
 
 
 
