@@ -31,13 +31,7 @@
 
 
 
-<p align="center">
- My GitHub Stats
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekha-Sivakumar&theme=radical" alt="GitHub Streak" />
-</p>
 
 
 ## 🔗 Connect With Me
@@ -48,6 +42,13 @@
   <a href="mailto:sivakumarekha23@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
+
+ ##My GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekha-Sivakumar&theme=radical" alt="GitHub Streak" />
+</p>
 <!--
 **Rekha-Sivakumar/Rekha-Sivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
