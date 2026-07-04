@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Java & Python | Full Stack & AI</h3>
 
 <p align="center">
- "Rekha's GitHub Stats"
+ My GitHub Stats
 </p>
 
 <p align="center">
