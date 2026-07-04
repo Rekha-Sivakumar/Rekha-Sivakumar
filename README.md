@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Java & Python | Full Stack & AI</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekha-Sivakumar&show_icons=true&theme=radical" alt="Rekha's GitHub Stats" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rekha-Sivakumar&show_icons=true&theme=radical" alt="Rekha's GitHub Stats" />
 </p>
 
 <p align="center">
